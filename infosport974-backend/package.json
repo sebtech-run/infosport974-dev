@@ -1,0 +1,14 @@
+{
+  "name": "infosport974-backend",
+  "version": "1.0.0",
+  "description": "gestion backend infosport974",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebtech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
