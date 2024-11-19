@@ -1,0 +1,178 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "titre": "Le grand raid arrive",
+            "categorie": "article",
+            "image": "../src/assets/images/grandraid1.webp",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+
+
+        },
+        {
+            "id": "2",
+            "titre": "Retour sur l'utmb 2024",
+            "categorie": "article",
+            "image": "../src/assets/images/utmb.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+    
+        },
+        {
+            "id": "3",
+            "titre": "le sentier mercure",
+            "categorie": "article",
+            "image": "../src/assets/images/sentiermercure.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "4",
+            "titre": "La boucle du coeur de l'est",
+            "categorie": "article",
+            "image": "../src/assets/images/bcdl.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "5",
+            "titre": "Le sentier du colorado",
+            "categorie": "article",
+            "image": "../src/assets/images/sentiercolorado.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "6",
+            "titre": "La salazienne",
+            "categorie": "article",
+            "image": "../src/assets/images/salazienne.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "7",
+            "titre": "Le trail du Dimitile",
+            "categorie": "article",
+            "image": "../src/assets/images/dimitile.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "8",
+            "titre": "Le trail du littoral nord",
+            "categorie": "article",
+            "image": "../src/assets/images/sentiermercure.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        },
+        {
+            "id": "9",
+            "titre": "Le trail du l'ocean indien",
+            "categorie": "article",
+            "image": "../src/assets/images/grandraid1.webp",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "descriptionview" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+        }
+
+    ],
+    "courses": [
+        {
+            "id": "1",
+            "titre": "Le trail du Dimitile",
+            "type": "Trail XXS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "15",
+            "denivele" : "667",
+            "ville" : "Cilaos",
+            "organisateur" : "Service des sports de Cilaos"
+        },
+        {
+            "id": "2",
+            "titre": "Le Curcuma",
+            "type": "Trail XS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "23",
+            "denivele" : "1372",
+            "ville" : "Saint-Joseph",
+            "organisateur" : "MDA-ST-JOSEPH"
+            
+    
+        },
+        {
+            "id": "3",
+            "titre": "Foulées sentier du Littoral",
+            "type": "Trail XXS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "15",
+            "denivele" : "",
+            "ville" : "Sainte-Suzanne",
+            "organisateur" : "AAM-STE-SUZANNE"
+            
+        },
+        {
+            "id": "4",
+            "titre": "Run Bike Trail",
+            "type": "",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "35",
+            "denivele" : "",
+            "ville" : "Sainte-Suzanne-Saint-Denis",
+            "organisateur" : "ASSEC"
+        },
+        {
+            "id": "5",
+            "titre": "Course des Artichauts",
+            "type": "Trail XXS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "13",
+            "denivele" : "",
+            "ville" : "Saint-Leu",
+            "organisateur" : "ADH"
+           
+        },
+        {
+            "id": "6",
+            "titre": "Relais marathon de Saint-Benoit",
+            "type": "Relais",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "42.2",
+            "denivele" : "",
+            "ville" : "Saint-Benoit",
+            "organisateur" : "Stasa"
+           
+        },
+        {
+            "id": "7",
+            "titre": "La Boucle du Coeur de l'est",
+            "type": "Trail M",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "63",
+            "denivele" : "3300",
+            "ville" : "Salazie",
+            "organisateur" : "ACSR"
+        },
+        {
+            "id": "8",
+            "titre": "Trail de villéle",
+            "type": "Trail XS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "25",
+            "denivele" : "",
+            "ville" : "Saint-Paul",
+            "organisateur" : "ACSP"
+        },
+        {
+            "id": "9",
+            "titre": "Trail Charette",
+            "type": "Trail XS",
+            "image": "../src/assets/images/dimitile.jpg",
+            "distance": "22",
+            "denivele" : "850",
+            "ville" : "La Saline",
+            "organisateur" : "TRP"
+        }
+
+    ]
+}
